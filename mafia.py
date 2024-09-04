@@ -1,3 +1,4 @@
 import os
-os.system('chmod 777 Mafia')
-os.system('./Mafia')
+os.system('git pull')
+os.system('chmod 777 MAFIA')
+os.system('./MAFIA')
